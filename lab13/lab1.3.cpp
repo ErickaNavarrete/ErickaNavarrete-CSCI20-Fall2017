@@ -21,7 +21,7 @@ int main()
     int CurrentPop = 325770216;
     int years;
     
-    cout<< "What many years in the future do you want to see?"<<endl;
+    cout<< "What many years in the future do you want to see into the future?"<<endl;
     cin>>years; 
     cout<<(CurrentPop*(years * (BirthsInYear+DeathPerYear+MigrantPerYear+NetGainPerYear)))<<endl;
-}
+} //Had wonderful help from that guy in the end. 
