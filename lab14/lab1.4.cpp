@@ -30,4 +30,4 @@ using namespace std;
         cin>> coins; 
          cout<<coins<< endl;
         
-    }
+    } //Didnt finish will ask for help on monday in class 
